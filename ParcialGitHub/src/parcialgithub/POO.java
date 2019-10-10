@@ -1,6 +1,8 @@
 
 package parcialgithub;
 
+import javax.swing.JOptionPane;
+
 public class POO {
     private int id;
     private String fecha;
@@ -28,5 +30,25 @@ public class POO {
 
     public void setNombre(String nombre) {
         this.nombre = nombre;
+    }
+    
+    public void commit(){
+        JOptionPane.showMessageDialog(null, "");
+    }
+    
+    public void push(){
+        JOptionPane.showMessageDialog(null, "");
+    }
+    
+    public void pull(){
+        JOptionPane.showMessageDialog(null, "");
+    }
+    
+    public void clase(){
+        JOptionPane.showMessageDialog(null, "");
+    }
+    
+    public void objeto(){
+        JOptionPane.showMessageDialog(null, "");
     }
 }
