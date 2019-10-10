@@ -33,22 +33,22 @@ public class POO {
     }
     
     public void commit(){
-        JOptionPane.showMessageDialog(null, "");
+        JOptionPane.showMessageDialog(null, "Un Commit identifica los cambios hechos en dicho ambiente de trabajo.");
     }
     
     public void push(){
-        JOptionPane.showMessageDialog(null, "");
+        JOptionPane.showMessageDialog(null, "Un git push sube los cambios al repositorio central, comúnmente llamado origin, para que otros desarrolladores puedan bajarse tus cambios");
     }
     
     public void pull(){
-        JOptionPane.showMessageDialog(null, "");
+        JOptionPane.showMessageDialog(null, "Un git pull baja los cambios de la rama determinada y la actualiza contra tu repositorio local.");
     }
     
     public void clase(){
-        JOptionPane.showMessageDialog(null, "");
+        JOptionPane.showMessageDialog(null, "Son plantillas para la creación de objetos, en lo que se conoce como programación orientada a objetos");
     }
     
     public void objeto(){
-        JOptionPane.showMessageDialog(null, "");
+        JOptionPane.showMessageDialog(null, "Un objeto es una instancia de una clase");
     }
 }
