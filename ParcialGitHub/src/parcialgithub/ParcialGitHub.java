@@ -53,6 +53,7 @@ public class ParcialGitHub {
                 
             case 8:
                 i=0;
+                JOptionPane.showMessageDialog(null, "Saliendo...");
                 break;
                 
             default:
