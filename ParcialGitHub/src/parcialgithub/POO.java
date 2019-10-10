@@ -49,6 +49,6 @@ public class POO {
     }
     
     public void objeto(){
-        JOptionPane.showMessageDialog(null, "Un objeto es una instancia de una clase");
+        JOptionPane.showMessageDialog(null, " objeto es una instancia de una clase");
     }
 }
